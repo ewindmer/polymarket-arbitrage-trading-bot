@@ -16,7 +16,10 @@ https://polymarket.com/@kafwhsd?tab=positions
 This is example account if you want your own polymarket arbitrage bot or polymarket copy trading bot
 Feel free to reach out to me at telegram: [@ewindmer](https://t.me/ewindmer)
 ---
-### I recommend https://tradingvps.io/  for **polymarekt arbitrage bot** and other **trading bot**
+
+### I recommend https://tradingvps.io/  for **polymarekt arbitrage bot** and other **trading bot**.
+From my hands-on experience in this is ultra-low latency, secure connection, nonstop uptime so this is best option for your trading 
+
 ---
 ### High-Level Flow
 
