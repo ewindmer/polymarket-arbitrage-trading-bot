@@ -1,7 +1,6 @@
-# Polymarket Arbitratge Bot
+# Polymarket Copy Trading Bot | Polymarket CopyTrading Bot
 
-- A **polymarket arbitrage bot** trades from your proxy wallet, via Polymarket **Central Limit Order Book (CLOB)** API.
-- A **polymarket arbitrage bot** places orders withtin 10ms~20ms but recently latency is no problem cause **polymarket** get rid of latency.
+- A **polymarket copy trading bot** & **polymarket copytrading bot** trades from your proxy wallet, via Polymarket **Central Limit Order Book (CLOB)** API.
 - Applied on **Politics**, **Sports**, **Weather**, **Crypto** Market and also other markets.
 ---
 
