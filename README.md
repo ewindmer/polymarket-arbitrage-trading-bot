@@ -1,5 +1,5 @@
 # Polymarket Copy Trading Bot | Polymarket CopyTrading Bot
-
+- A **polymarket copy trading bot** & **polymarket copytrading bot** copy polymarket sports whales strategies.
 - A **polymarket copy trading bot** & **polymarket copytrading bot** trades from your proxy wallet, via Polymarket **Central Limit Order Book (CLOB)** API.
 - Applied on **Politics**, **Sports**, **Weather**, **Crypto** Market and also other markets.
 - Sports Markets: **NBA**,**NCAAB**,**NHL**,**Soccer**,**Esports**,**Tennis**, **Cricket**, **Basketball**, **Hockey**, **Rugby**, **Table Tennis**, **UFC**, **Football**, **Baseball**, **Golf**, **Formula1**, **Chess**, **Boxing**, **Pickleball**, **Lacrosse**
