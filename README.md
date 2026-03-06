@@ -301,5 +301,5 @@ composite = (
 
 ---
 
-**keywords**: **polymarket-copy-trading-bot**, **polymarket-copytrading-bot**, **polymarket-trading-politics**, **polymarket-trading-sports**, **polymarket-trading-weather**, **polymarket-trading-crypto**, **sports**, **weather**, **polictics**
+**keywords**:  **polymarket-trading-bot**, **polymarket-arbitrage-bot**, **polymarket-trading-bot-15m-5m**, **polymarket-arbitrage-bot-15m-5m**
 
